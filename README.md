@@ -2,7 +2,7 @@ CookieCutter.el
 ===============
 
 `cookiecutter.el` is a boilerplate template for simple one file emacs
-lisp pacakages. It is experimental at the moment.
+lisp packages. It is experimental at the moment.
 
 Usage
 -----
